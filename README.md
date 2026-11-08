@@ -74,7 +74,7 @@ Carrera de Ingeniería de Software
 Período 202620
 1ASI0730 Aplicaciones Web
 NRC 16129
-**Nombre del equipo**: NutriStartup
-**Líder del equipo**: Gabriel Alejandro Vilchez Vite
-**Integrantes del equipo**: Poly Gabriel Alcantara Baldeon - Giordano Sebastian Del Ángel Trejo Espejo - Gabriel Alejandro Vilchez Vite - Alejandro Franklin Mendoza Vergara
-**Fecha de entrega**: 13/11/2026
+* **Nombre del equipo**: NutriStartup
+* **Líder del equipo**: Gabriel Alejandro Vilchez Vite
+* **Integrantes del equipo**: Poly Gabriel Alcantara Baldeon - Giordano Sebastian Del Ángel Trejo Espejo - Gabriel Alejandro Vilchez Vite - Alejandro Franklin Mendoza Vergara
+* **Fecha de entrega**: 13/11/2026
