@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: purple;
+}
+
+.destacado {
+    font-size: 20px;
+    background-color: yellow;
+    padding: 10px;
+}
+
+li {
+    color: darkgreen;
+}
+
+#aviso {
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
