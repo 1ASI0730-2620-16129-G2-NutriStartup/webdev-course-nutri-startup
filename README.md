@@ -54,14 +54,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-16129-G2-NutriStartup/webdev-course-nutri-startup)
 * **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad           | Empezar a Programar                                             |
-|-----------|---------------------|-----------------------------------------------------------------|
-| 1         | Explorar Sitios Web | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3) |
-| 2         |                     | []()                                                            |
-| 3         |                     | []()                                                            |
-| 4         | Introduccion a CSS  | [Code Sandbox](https://codesandbox.io/p/sandbox/2txr2c)                                                |
-| 5         |                     | []()                                                            |
-| 6         |                     | []()                                                            |
+| Lección # | Actividad                      | Empezar a Programar                                             |
+|-----------|--------------------------------|-----------------------------------------------------------------|
+| 1         | Explorar Sitios Web            | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3) |
+| 2         | Crear tu primera página HTML   | [Code Sandbox](https://codesandbox.io/p/sandbox/6mvg52)                                                            |
+| 3         |                                | []()                                                            |
+| 4         | Introduccion a CSS             | [Code Sandbox](https://codesandbox.io/p/sandbox/2txr2c)                                                |
+| 5         |                                | []()                                                            |
+| 6         |                                | []()                                                            |
 
 * Cuestionario: [Pon a prueba tus conocimientos]()
 * Compartir: #WebDevBeginners
