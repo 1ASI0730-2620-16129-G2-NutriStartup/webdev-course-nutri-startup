@@ -1,6 +1,6 @@
 # Lección 3: Añadir más elementos HTML
 
-## Etiquetas <ul>, <img> y <a>
+## Etiquetas ul, img y a
 
 Las etiquetas `<ul>`, `<img>` y `<a>` son fundamentales para agregar listas, imágenes y enlaces para que una página sea interactiva.
 
