@@ -46,7 +46,7 @@ h1 {
 
 Si hizo todo esto, la página mostrará un texto grande, de color azul subrayado, que dice "Hola vuelvo a casa".
 
-# Puntos clave de esta lección
+## Puntos clave de esta lección
 
 Como puntos clave de esta lección, podemos destacar que:
 * El desarrollo web es la creación de sitios y aplicaciones para internet.
