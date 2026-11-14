@@ -16,9 +16,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/FfYx-Rtg77M)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: []()
+- **Empieza a programar**: [Code Sandbox](https://codesandbox.io/dashboard/recent)
 
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
@@ -54,14 +54,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-16129-G2-NutriStartup/webdev-course-nutri-startup)
 * **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad | Empezar a Programar |
-|-----------|-----------|---------------------|
-| 1         |           | []()                |
-| 2         |           | []()                |
-| 3         |           | []()                |
-| 4         |           | []()                |
-| 5         |           | []()                |
-| 6         |           | []()                |
+| Lección # | Actividad           | Empezar a Programar                                              |
+|-----------|---------------------|------------------------------------------------------------------|
+| 1         | Explorar Sitios Web | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3)  |
+| 2         |                     | []()                                                             |
+| 3         |                     | []()                                                             |
+| 4         |                     | []()                                                             |
+| 5         |                     | []()                                                             |
+| 6         |                     | []()                                                             |
 
 * Cuestionario: [Pon a prueba tus conocimientos]()
 * Compartir: #WebDevBeginners
