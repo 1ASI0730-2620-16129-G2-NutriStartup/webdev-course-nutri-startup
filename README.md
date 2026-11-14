@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/lTyO0uHJj8A)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic]() 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codesandbox.io/p/sandbox/2txr2c) 👈 **¡No es necesario registrarse!**
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
@@ -54,14 +54,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-16129-G2-NutriStartup/webdev-course-nutri-startup)
 * **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad           | Empezar a Programar                                              |
-|-----------|---------------------|------------------------------------------------------------------|
-| 1         | Explorar Sitios Web | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3)  |
-| 2         |                     | []()                                                             |
-| 3         |                     | []()                                                             |
-| 4         |                     | []()                                                             |
-| 5         |                     | []()                                                             |
-| 6         |                     | []()                                                             |
+| Lección # | Actividad           | Empezar a Programar                                             |
+|-----------|---------------------|-----------------------------------------------------------------|
+| 1         | Explorar Sitios Web | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3) |
+| 2         |                     | []()                                                            |
+| 3         |                     | []()                                                            |
+| 4         | Introduccion a CSS  | [Code Sandbox](https://codesandbox.io/p/sandbox/2txr2c)                                                |
+| 5         |                     | []()                                                            |
+| 6         |                     | []()                                                            |
 
 * Cuestionario: [Pon a prueba tus conocimientos]()
 * Compartir: #WebDevBeginners
