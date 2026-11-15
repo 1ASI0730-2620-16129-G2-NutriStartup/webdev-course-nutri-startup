@@ -46,7 +46,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección]()
+- **Enlace**: [Consejos finales](https://youtu.be/wGm1s00K5Ls)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación]()
 
@@ -54,14 +54,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/1ASI0730-2620-16129-G2-NutriStartup/webdev-course-nutri-startup)
 * **Todas las Actividades Prácticas**:
 
-| Lección # | Actividad                    | Empezar a Programar                                                       |
-|-----------|------------------------------|---------------------------------------------------------------------------|
-| 1         | Explorar Sitios Web          | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3)           |
-| 2         | Crear tu primera página HTML | [Code Sandbox](https://codesandbox.io/p/sandbox/6mvg52)                   |
-| 3         | Añadir imágenes              | [Code Sandbox](https://codesandbox.io/p/sandbox/leccion-3-ejemplo-sqzgv3) |
-| 4         | Introduccion a CSS           | [Code Sandbox](https://codesandbox.io/p/sandbox/2txr2c)                   |
-| 5         | Página de perfil             | [Code Sandbox](https://codesandbox.io/p/sandbox/web-dev-course-97kkrh)    |
-| 6         |                              | [Code Sandbox]()                                                          |
+| Lección # | Actividad                       | Empezar a Programar                                                         |
+|-----------|---------------------------------|-----------------------------------------------------------------------------|
+| 1         | Explorar Sitios Web             | [Code Sandbox](https://codesandbox.io/p/sandbox/ejemplo-9v4nv3)             |
+| 2         | Crear tu primera página HTML    | [Code Sandbox](https://codesandbox.io/p/sandbox/6mvg52)                     |
+| 3         | Añadir imágenes                 | [Code Sandbox](https://codesandbox.io/p/sandbox/leccion-3-ejemplo-sqzgv3)   |
+| 4         | Introduccion a CSS              | [Code Sandbox](https://codesandbox.io/p/sandbox/2txr2c)                     |
+| 5         | Página de perfil                | [Code Sandbox](https://codesandbox.io/p/sandbox/web-dev-course-97kkrh)      |
+| 6         | Revisar y mejorar tu página web | [Code Sandbox](https://codesandbox.io/p/sandbox/glw4z8)                     |
 
 * Cuestionario: [Pon a prueba tus conocimientos]()
 * Compartir: #WebDevBeginners
