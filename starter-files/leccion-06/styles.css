@@ -1,0 +1,92 @@
+/* Lección 6: Revisa la organización y consistencia de las reglas CSS. */
+
+/* Paso 1: Comprueba los estilos generales de la página. */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #eef6f7;
+    color: #263746;
+    line-height: 1.6;
+}
+
+/* Paso 2: Verifica que el contenedor tenga un ancho máximo y esté centrado. */
+.page {
+    width: 90%;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 32px 0;
+}
+
+/* Paso 3: Comprueba que el selector coincida con class="site-header" en HTML. */
+.site-header {
+    background-color: #dbeafe;
+    color: #1e3a5f;
+    text-align: center;
+    padding: 32px 20px;
+    border-radius: 16px;
+    margin-bottom: 24px;
+}
+
+.site-header h1 {
+    color: #1e3a8a;
+    margin: 10px 0;
+}
+
+.subtitle {
+    color: #167d86;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+}
+
+/* Paso 4: Revisa que ambas clases existan en el documento HTML. */
+.profile-card,
+.content-section {
+    background-color: #ffffff;
+    padding: 24px;
+    border-radius: 14px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #167d86;
+}
+
+/* Paso 5: Comprueba que .profile-link coincida con la clase del enlace en HTML. */
+.profile-link {
+    display: inline-block;
+    background-color: #167d86;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 8px;
+}
+
+.profile-link:hover {
+    background-color: #105a64;
+}
+
+/* Paso 6: Revisa la presentación del pie de página. */
+.site-footer {
+    text-align: center;
+    color: #718894;
+    font-size: 14px;
+    padding: 10px;
+}
+
+/* Paso 7: Comprueba que el contenido siga siendo legible en pantallas pequeñas. */
+@media (max-width: 600px) {
+    .page {
+        width: 92%;
+    }
+
+    .site-header,
+    .profile-card,
+    .content-section {
+        padding: 20px;
+    }
+
+    .site-header h1 {
+        font-size: 26px;
+    }
+}

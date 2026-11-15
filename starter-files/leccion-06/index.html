@@ -1,10 +1,58 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi perfil personal</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div class="page">
+        <!-- Paso 1: Revisa que el encabezado tenga un título principal y una breve presentación. -->
+        <header class="site-header">
+            <p class="subtitle">BIENVENIDO A MI ESPACIO</p>
+            <h1>¡Hola! Soy Valeria</h1>
+            <p>Explorando nuevas ideas y aprendiendo desarrollo web.</p>
+        </header>
 
+        <main>
+            <!-- Paso 2: Comprueba que esta sección tenga un título, una descripción y un enlace. -->
+            <section class="profile-card">
+                <h2>¿Quién soy?</h2>
+                <p>
+                    Me gusta aprender cosas nuevas, descubrir lugares y crear
+                    proyectos que pueda compartir con los demás.
+                </p>
+                <!-- Paso 3: Verifica que href coincida con el id de la sección de hobbies. -->
+                <a class="profile-link" href="#hobbies">Conoce mis intereses</a>
+            </section>
+
+            <section class="content-section" id="hobbies">
+                <h2>Mis intereses</h2>
+                <p>Estas son algunas actividades que disfruto en mi tiempo libre:</p>
+                <ul>
+                    <li>Tomar fotografías</li>
+                    <li>Leer libros de aventura</li>
+                    <li>Escuchar podcasts</li>
+                </ul>
+            </section>
+
+            <!-- Paso 4: Revisa que los elementos de esta lista estén dentro de etiquetas li. -->
+            <section class="content-section">
+                <h2>Mis objetivos</h2>
+                <p>Quiero seguir aprendiendo y alcanzar nuevas metas:</p>
+                <ol>
+                    <li>Aprender desarrollo web.</li>
+                    <li>Crear mi propio sitio personal.</li>
+                    <li>Compartir mis proyectos.</li>
+                </ol>
+            </section>
+        </main>
+
+        <!-- Paso 5: Comprueba que el pie de página esté dentro de .page y después de main. -->
+        <footer class="site-footer">
+            <p>© 2026 Valeria | Mi espacio personal en la web.</p>
+        </footer>
+    </div>
 </body>
 </html>
