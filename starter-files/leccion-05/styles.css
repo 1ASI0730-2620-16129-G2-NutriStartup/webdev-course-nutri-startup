@@ -1,0 +1,23 @@
+/*
+  Puedes completar los estilos en el mismo orden en que se explican en la lección
+*/
+
+/* Paso 1: Define en body margin: 0, la fuente Arial, un fondo gris claro,
+   un color de texto oscuro y line-height: 1.6 */
+
+/* Paso 2: Crea .page con width: 90%, max-width: 850px,
+   margin: 0 auto y padding: 32px 0 */
+
+/* Paso 3: Diseña .site-header con fondo azul claro, texto centrado,
+   padding, bordes redondeados y margen inferior */
+
+/* Paso 4: Aplica a .profile-card y .content-section un fondo blanco,
+   padding, bordes redondeados y margen inferior */
+
+/* Paso 5: Cambia el color de los títulos h1 y h2 */
+
+/* Paso 6: Da apariencia de botón al enlace .profile-link usando
+   display, background-color, color, text-decoration, padding y border-radius */
+
+/* Paso 7: Centra el texto de .site-footer y define un color más suave,
+   un tamaño de letra y padding */
