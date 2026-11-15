@@ -40,9 +40,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección]()
+- **Enlace**: [Ver la lección](https://youtu.be/sIAGvGD7tu0)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil]() 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://codesandbox.io/dashboard)
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -60,7 +60,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 2         | Crear tu primera página HTML | [Code Sandbox](https://codesandbox.io/p/sandbox/6mvg52)                    |
 | 3         | Añadir imágenes              | [Code Sandbox](https://codesandbox.io/p/sandbox/leccion-3-ejemplo-sqzgv3)  |
 | 4         | Introduccion a CSS           | [Code Sandbox](https://codesandbox.io/p/sandbox/2txr2c)                    |
-| 5         |                              | []()                                                                       |
+| 5         | Página de perfil             | [Code Sandbox](https://codesandbox.io/p/sandbox/web-dev-course-97kkrh)     |
 | 6         |                              | []()                                                                       |
 
 * Cuestionario: [Pon a prueba tus conocimientos]()
