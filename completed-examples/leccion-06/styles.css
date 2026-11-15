@@ -1,0 +1,88 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #eef6f7;
+    color: #263746;
+    line-height: 1.7;
+}
+
+/* Contenedor principal */
+.page {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 35px 0;
+}
+
+/* Encabezado */
+.site-header {
+    background: linear-gradient(135deg, #123b52, #167d86);
+    color: #ffffff;
+    text-align: center;
+    padding: 45px 25px;
+    border-radius: 18px;
+    margin-bottom: 25px;
+}
+
+.site-header h1 {
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.subtitle {
+    color: #a9ece5;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+/* Tarjetas de contenido */
+.profile-card,
+.content-section {
+    background-color: #ffffff;
+    padding: 28px;
+    border-radius: 16px;
+    margin-bottom: 22px;
+    box-shadow: 0 4px 15px rgba(31, 65, 80, 0.08);
+}
+
+/* Títulos */
+h2 {
+    color: #167d86;
+    margin-top: 0;
+}
+
+/* Enlace principal */
+.profile-link {
+    display: inline-block;
+    background-color: #167d86;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 11px 18px;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.profile-link:hover {
+    background-color: #105a64;
+}
+
+/* Listas */
+ul,
+ol {
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Pie de página */
+.site-footer {
+    text-align: center;
+    color: #718894;
+    font-size: 13px;
+    padding: 15px;
+}
